@@ -6,5 +6,5 @@
 - My current PB is 24.759s!
 
 ----
-Try it out  : https://byun-sungwoo.itch.io/lineclear
-Password    : icoulduseahamburger
+- Try it out  : https://byun-sungwoo.itch.io/lineclear
+- Password    : icoulduseahamburger
